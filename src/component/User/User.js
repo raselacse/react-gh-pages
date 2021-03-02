@@ -1,7 +1,6 @@
 import React from 'react';
 import fakeData from '../../fakeData/MOCK_DATA.json'
-import { useEffect } from 'react';
-import { useState } from 'react/cjs/react.development';
+import { useEffect, useState } from 'react';
 import Player from '../Player/Player';
 import Team from '../Team/Team';
 import './User.css'
